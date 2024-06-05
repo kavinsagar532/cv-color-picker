@@ -6,3 +6,4 @@ def get_colored_image(r, g, b, switch):
     if switch == 1:
         img[:] = [r, g, b]
     return img
+
