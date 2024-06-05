@@ -1,6 +1,5 @@
 import streamlit as st
 from cv_code import get_colored_image
-from PIL import Image
 
 st.title("Color Picker")
 
